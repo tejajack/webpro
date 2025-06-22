@@ -1,1 +1,23 @@
+.container{
+    background-color: black;
+    height: 100vh;
+    width: 100%;
+    margin: 0;
+    padding-top: 120px;
+    box-sizing: border-box;
+}
 
+
+.helloworld{
+    color: blueviolet;
+    font-size: 200px;
+    background-color: aqua;
+    text-align: center;
+    margin: 40px;
+    border-radius: 25px;
+
+}
+
+.dropdown{
+    width: 300px;
+}
